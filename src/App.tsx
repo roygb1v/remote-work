@@ -71,8 +71,9 @@ const HomePage = () => {
     setData(filteredData)
   }
 
-  const handleBackspace = (e: React.KeyboardEvent<HTMLInputElement>) => {
-    if (e?.keyCode === 8) {
+  const handleBackspace = (e: any) => {
+    const name = e.target.value
+    if (e.keyCode === 8) {
       const filteredData = cache.filter((datum: DataType) => datum.company?.toLowerCase().includes(name.toLowerCase()))
       setData(filteredData)
     }
@@ -82,8 +83,6 @@ const HomePage = () => {
     <AutoComplete
       dropdownMatchSelectWidth={252}
       style={{ width: window.innerWidth - 16, margin: '0 0 1rem 0' }}
-      // options={options}
-      // onSelect={onSelect}
       onSearch={handleSearch}
     >
       <Input.Search size="large" placeholder="Search company name" onKeyDown={handleBackspace} enterButton />
