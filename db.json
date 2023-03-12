@@ -130,7 +130,372 @@
     "notes": "3 days"
   },
   {
+    "company": "Palantir",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Peloton",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Plaid",
+    "policy": "Hybrid",
+    "notes": "1 day"
+  },
+  {
+    "company": "Qualcomm",
+    "policy": "Hybrid",
+    "notes": "4 days"
+  },
+  {
+    "company": "Qualtrics",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Riot Games",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Rippling",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Roblox",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Roku",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Salesforce",
+    "policy": "Hybrid",
+    "notes": "10 days per quarter"
+  },
+  {
+    "company": "SAP",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Slack",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Snap",
+    "policy": "Hybrid",
+    "notes": "4 days"
+  },
+  {
+    "company": "Snowflake",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Uber",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Visa",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Walmart",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Wayfair",
+    "policy": "Hybrid",
+    "notes": "1 day"
+  },
+  {
+    "company": "Workday",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "AMEX",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Anduril",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Capital One",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Cisco",
+    "policy": "Hybrid",
+    "notes": "Based on role"
+  },
+  {
+    "company": "Datadog",
+    "policy": "Hybrid",
+    "notes": "Based on level"
+  },
+  {
+    "company": "Docusign",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "eBay",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Intel",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "LinkedIn",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Microsoft",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Netflix",
+    "policy": "Hybrid",
+    "notes": "Based on division"
+  },
+  {
+    "company": "NVIDIA",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Oracle",
+    "policy": "Hybrid",
+    "notes": "Based on division"
+  },
+  {
+    "company": "Palo Alto Networks",
+    "policy": "Hybrid",
+    "notes": "Based on level"
+  },
+  {
+    "company": "ServiceNow",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Stripe",
+    "policy": "Hybrid",
+    "notes": "Based on team"
+  },
+  {
+    "company": "Affirm",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Airbnb",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Atlassian",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Box",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Brex",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Cloudflare",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Coinbase",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Confluent",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Cruise",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Discord",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Doordash",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Dropbox",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Figma",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Github",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Gitlab",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Hubspot",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Indeed",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Instacart",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Lyft",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Okta",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
     "company": "Meta",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "MongoDB",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "PayPal",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Pinterest",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Quora",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Reddit",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Robinhood",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Samsara",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Shopify",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Splunk",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Spotify",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Square",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Twilio",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "VMware",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Waymo",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Yelp",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Zendesk",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Zillow",
+    "policy": "Remote",
+    "notes": ""
+  },
+  {
+    "company": "Zoom",
     "policy": "Remote",
     "notes": ""
   }
