@@ -1,0 +1,137 @@
+[
+  {
+    "company": "Citrix",
+    "policy": "RTO",
+    "notes": ""
+  },
+  {
+    "company": "Tesla",
+    "policy": "RTO",
+    "notes": ""
+  },
+  {
+    "company": "Twitter",
+    "policy": "RTO",
+    "notes": ""
+  },
+  {
+    "company": "Adobe",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Asana",
+    "policy": "Hybrid",
+    "notes": "4 days"
+  },
+  {
+    "company": "Amazon",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Apple",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Bloomberg",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Blackrock",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Bytedance",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Credit Karma",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "CrowdStrike",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Databricks",
+    "policy": "Hybrid",
+    "notes": "1 day"
+  },
+  {
+    "company": "Disney",
+    "policy": "Hybrid",
+    "notes": "4 days"
+  },
+  {
+    "company": "Expedia",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Flexport",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Goldman Sachs",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Google",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "IBM",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Intuit",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "JP Morgan",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Lockheed Martin",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Mastercard",
+    "policy": "Hybrid",
+    "notes": "2 days"
+  },
+  {
+    "company": "Morgan Stanley",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Notion",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "OpenAI",
+    "policy": "Hybrid",
+    "notes": "3 days"
+  },
+  {
+    "company": "Meta",
+    "policy": "Remote",
+    "notes": ""
+  }
+]
