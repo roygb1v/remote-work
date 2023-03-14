@@ -18,7 +18,6 @@ const columns: ColumnsType<DataType> = [
   {
     title: 'Company',
     width: 120,
-    sorter: true,
     dataIndex: 'company',
     key: 'company',
     fixed: 'left',
@@ -36,7 +35,11 @@ const columns: ColumnsType<DataType> = [
   {
     title: 'Policy',
     width: 100,
-    sorter: true,
+    sorter: (a, b) => {
+      const aCount = a.policy.props.count.split('').map((c: string, i: number) => a.policy.props.count.charCodeAt(i)).reduce((k: number, l: number) => k + l, 0)
+      const bCount = b.policy.props.count.split('').map((c: string, i: number) => b.policy.props.count.charCodeAt(i)).reduce((d: number, e: number) => d + e, 0)
+      return aCount - bCount
+    },
     dataIndex: 'policy',
     key: 'policy',
   },
