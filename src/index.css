@@ -1,6 +1,8 @@
-.table-row-light {
-  background-color: #ffffff;
-}
-.table-row-dark {
-  background-color: #fbfbfb;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
 }
